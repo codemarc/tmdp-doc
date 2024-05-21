@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "setup": "yarn add docsify-cli --global",
-    "start": "docsify serve -p 3001 docs"
+    "setup": "yarn global add docsify-cli  && docsify init",
+    "start": "docsify serve -p 3001 ."
   }
 }
