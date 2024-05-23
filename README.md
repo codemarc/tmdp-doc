@@ -12,7 +12,8 @@ Join us as we explore how the Miracle Developers Process can redefine what it me
 
 ## Mission Statement
 
-By using the Miracle Developers Process (tmdp), we harness seasoned expertise and cutting-edge generative artificial intelligence (genai) technology to deliver exceptional results. Our process, built by enabling t-shaped software professionals with 30+ years of experience to use genai to drive automation and innovation a predictable, repeatable and reliable manner, creating  a rich pool of know-how in software development, ecommerce practices, cloud technologies, DevOps automations, and integration solutions. By deeply embracing the growing genai toolchain, we provide transformative solutions to delight our clients
+By using the Miracle Developers Process (tmdp), we harness seasoned expertise and cutting-edge generative artificial intelligence (genai) technology to deliver exceptional results. Our process, starts by enabling t-shaped software professionals with 30+ years of experience to use genai for everything. Tpmd drives innovation in a predictable, repeatable and reliable manner and creates a rich pool of artifacts used in software development, ecommerce, cloud enablement, devops automation, and integration solutions. By deeply embracing the growing genai toolchain, we provide transformative solutions to delight our clients.  
+
 This mission statement is built using Chat GPT4o.
 
 ## Toolchain
