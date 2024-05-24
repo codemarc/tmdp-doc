@@ -10,7 +10,7 @@ Dorik is an AI-powered website builder designed to help users create website des
 
 These features make Dorik a versatile and user-friendly tool for anyone looking to establish an online presence without the need for extensive technical skills.
 
-[<< back](../README.md)
+[<< back](/miracle/doc/#/)
 
 ---
 ### Website created using Dorik
@@ -37,4 +37,4 @@ It is interesting how simular the final design is to the original.
 ![](./s4.png)
 
 
-[<< back](../README.md)
+[<< back](/miracle/doc/#/)
