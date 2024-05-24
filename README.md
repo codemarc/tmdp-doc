@@ -21,8 +21,10 @@ This mission statement is built using Chat GPT4o.
 1. [docsify] - A magical documentation site generator.  
 This documentation is generated using docsify.
 
+2. [dorik] - Dorik is an AI-powered website builder designed to help users create website designs. Look [here](./dorik/dorik.md) to see how we
+use this technology in TMDP. Is a miracle!!
 
 
 [Codemarc Consulting, LLC]: https://codemarc.net
 [docsify]: https://docsify.js.org/#/
-
+[dorik]: https://dorik.com/
