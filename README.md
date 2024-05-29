@@ -18,6 +18,12 @@ By using the Miracle Developers Process (tmdp), we harness seasoned expertise an
 
 This mission statement is built using Chat GPT4o.
 
+## Components of the Miracle Developers Process
+
+### Sales
+
+[Sales]
+
 ## Toolchain
 
 1. [docsify] - A magical documentation site generator.
@@ -32,3 +38,4 @@ This mission statement is built using Chat GPT4o.
 [Codemarc Consulting, LLC]: https://codemarc.net
 [docsify]: https://docsify.js.org/#/
 [dorik]: ./dorik/dorik.md
+[sales]: ./sales/sales.md
