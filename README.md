@@ -18,11 +18,18 @@ By using the Miracle Developers Process (tmdp), we harness seasoned expertise an
 
 This mission statement is built using Chat GPT4o.
 
-## Components of the Miracle Developers Process
+---
 
-### Sales
+## Taxonomy
 
-[Sales]
+- [Communicaions]
+- [Source Tools]
+- [Artifical Intelligence]
+- [Search]
+- [Collaborate]
+- [Create]
+- [Convert]
+- [Sales]
 
 ## Toolchain
 
@@ -39,3 +46,4 @@ This mission statement is built using Chat GPT4o.
 [docsify]: https://docsify.js.org/#/
 [dorik]: ./dorik/dorik.md
 [sales]: ./sales/sales.md
+[Artifical Intelligence]: ./aboutAI/terms
